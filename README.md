@@ -14,7 +14,7 @@ The AI uses Neural Network with 5 attributes to make decision whether the bird s
 - Probability (0 - 1) (flap if prob > 0.5)
 
 
-## How the bird improve on their decision-making?
+## How the bird improves on their decision-making?
 I make use of Genetic Algorithm:
 	-> Create population of birds (the more the faster the AI converges)
 	-> Let it play with their own brain (making own's decision)
